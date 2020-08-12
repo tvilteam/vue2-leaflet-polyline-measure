@@ -1,0 +1,39 @@
+{
+  "name": "vue2-leaflet-polyline-measure",
+  "version": "1.2.0",
+  "description": "Leaflet.PolylineMeasure control plugin extension for Vue2Leaflet package",
+  "main": "./LControlPolylineMeasure.vue",
+  "scripts": {
+    "example": "poi --serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tvilteam/vue2-leaflet-polyline-measure.git"
+  },
+  "keywords": [
+    "vue",
+    "leaflet",
+    "vue2leaflet",
+    "polylinemeasure",
+    "ruler"
+  ],
+  "author": "Michael Underwood",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tvilteam/vue2-leaflet-polyline-measure/issues"
+  },
+  "homepage": "https://github.com/tvilteam/vue2-leaflet-polyline-measure#readme",
+  "dependencies": {
+    "leaflet.polylinemeasure": "git+https://github.com/tvilteam/vue2-leaflet-polyline-measure.git",
+    "vue2-leaflet": "^2.0.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.8.0",
+    "eslint-plugin-vue": "^6.1.2",
+    "leaflet": "^1.3.4",
+    "poi": "^12.7.5",
+    "vue": "^2.6.11",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
