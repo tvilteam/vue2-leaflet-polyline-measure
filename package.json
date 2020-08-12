@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/tvilteam/vue2-leaflet-polyline-measure#readme",
   "dependencies": {
-    "leaflet.polylinemeasure": "git+https://github.com/tvilteam/vue2-leaflet-polyline-measure.git",
+    "leaflet.polylinemeasure": "git+https://github.com/tvilteam/leaflet.polylinemeasure.git",
     "vue2-leaflet": "^2.0.0"
   },
   "devDependencies": {
